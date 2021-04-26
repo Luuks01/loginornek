@@ -1,0 +1,20 @@
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\bin\Debug\net5.0-windows\Login Örneği.exe
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\bin\Debug\net5.0-windows\Login Örneği.deps.json
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\bin\Debug\net5.0-windows\Login Örneği.runtimeconfig.json
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\bin\Debug\net5.0-windows\Login Örneği.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\bin\Debug\net5.0-windows\Login Örneği.dll
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\bin\Debug\net5.0-windows\ref\Login Örneği.dll
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\bin\Debug\net5.0-windows\Login Örneği.pdb
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login_Örneği.Form1.resources
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login_Örneği.Form2.resources
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login_Örneği.Properties.Resources.resources
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.dll
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\ref\Login Örneği.dll
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.pdb
+C:\Users\Hp\source\repos\Login Örneği\Login Örneği\obj\Debug\net5.0-windows\Login Örneği.genruntimeconfig.cache
